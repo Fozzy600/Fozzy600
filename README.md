@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fozzy600
 - 👀 I’m interested in cars, technology, beer and programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python for me and talend for work
 - 💞️ I’m looking to collaborate when i'm better at this
 - 📫 How to reach me 🐦@stevenfossett
 
